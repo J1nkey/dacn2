@@ -1,0 +1,15 @@
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.csproj.AssemblyReference.cache
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.AssemblyInfoInputs.cache
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.AssemblyInfo.cs
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.csproj.CoreCompileInputs.cache
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\bin\Debug\net6.0\MotorcycleWebShop.Application.deps.json
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\bin\Debug\net6.0\MotorcycleWebShop.Application.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\bin\Debug\net6.0\MotorcycleWebShop.Application.pdb
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\bin\Debug\net6.0\MotorcycleWebShop.Domain.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\bin\Debug\net6.0\MotorcycleWebShop.Domain.pdb
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.csproj.CopyComplete
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\refint\MotorcycleWebShop.Application.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\MotorcycleWebShop.Application.pdb
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Application\obj\Debug\net6.0\ref\MotorcycleWebShop.Application.dll

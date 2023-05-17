@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MotorcycleWebShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MotorcycleWebShop.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\0c47f383-5a41-47b1-acb6-e6042feba5df.JPG",
+      "PackagePath": "staticwebassets\\user-content\\0c47f383-5a41-47b1-acb6-e6042feba5df.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\2b4148b3-5a75-4949-9ce5-64e13a0c47d5.JPG",
+      "PackagePath": "staticwebassets\\user-content\\2b4148b3-5a75-4949-9ce5-64e13a0c47d5.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\66ed1a97-81cf-44a2-8e06-b730a2dedc3c.JPG",
+      "PackagePath": "staticwebassets\\user-content\\66ed1a97-81cf-44a2-8e06-b730a2dedc3c.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\83367a60-7fd5-4429-bd9e-a4b83214275a.JPG",
+      "PackagePath": "staticwebassets\\user-content\\83367a60-7fd5-4429-bd9e-a4b83214275a.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\8644340c-5da6-4b82-9ac1-f19b3919f0dc.JPG",
+      "PackagePath": "staticwebassets\\user-content\\8644340c-5da6-4b82-9ac1-f19b3919f0dc.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\972942df-f040-4f7c-8b09-964dbbb3e7c2.JPG",
+      "PackagePath": "staticwebassets\\user-content\\972942df-f040-4f7c-8b09-964dbbb3e7c2.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\b403b17e-610b-4909-89ca-a6a361ba01ed.JPG",
+      "PackagePath": "staticwebassets\\user-content\\b403b17e-610b-4909-89ca-a6a361ba01ed.JPG"
+    },
+    {
+      "Id": "E:\\Workspace\\CS2022\\JinkeyProjects\\CleanArchitectureWebShop\\MotorcycleWebShop\\MotorcycleWebShop\\wwwroot\\user-content\\f28ca8f8-fbb8-4c96-a52d-0828ad982f8b.JPG",
+      "PackagePath": "staticwebassets\\user-content\\f28ca8f8-fbb8-4c96-a52d-0828ad982f8b.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MotorcycleWebShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MotorcycleWebShop.props",
+      "PackagePath": "build\\MotorcycleWebShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MotorcycleWebShop.props",
+      "PackagePath": "buildMultiTargeting\\MotorcycleWebShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MotorcycleWebShop.props",
+      "PackagePath": "buildTransitive\\MotorcycleWebShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

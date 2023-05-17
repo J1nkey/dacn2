@@ -1,0 +1,40 @@
+<!-- Main Menu Section -->
+<section class="menu">
+	<nav class="navbar navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<h2 class="menu-title">Main Menu</h2>
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+					aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div><!-- / .navbar-header -->
+
+			<!-- Navbar Links -->
+			<div id="navbar" class="navbar-collapse collapse text-center">
+				<ul class="nav navbar-nav">
+                    <li [ngClass]="['dropdown', 'dropdown-slide']" 
+                    *ngFor="let navItem of navigationBarItems">
+                        <ng-template [ngIf]="navItem.subItems != null" [ngIfElse]="noHaveSubItems">
+                            <a href="#!" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350"
+                                role="button" aria-haspopup="true" aria-expanded="false">{{ navItem.name }}<span
+                                    class="tf-ion-ios-arrow-down"></span></a>
+                            <ul class="dropdown-menu" *ngIf="navItem.subItems!">
+                                <li *ngFor="let subNavItem of navItem.subItems">
+                                    <a [href]="[navItem.url]">{{ subNavItem.name }}</a>
+                                </li>
+                            </ul>
+                        </ng-template>
+                        <ng-template #noHaveSubItems>
+                            <a [href]="[navItem.url]">{{navItem.name}}</a>
+                        </ng-template>
+                    </li>
+				</ul><!-- / .nav .navbar-nav -->
+			</div>
+			<!--/.navbar-collapse -->
+		</div><!-- / .container -->
+	</nav>
+</section>

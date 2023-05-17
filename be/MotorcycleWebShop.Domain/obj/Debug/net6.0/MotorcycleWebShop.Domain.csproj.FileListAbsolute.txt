@@ -1,0 +1,12 @@
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\bin\Debug\net6.0\MotorcycleWebShop.Domain.deps.json
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\bin\Debug\net6.0\MotorcycleWebShop.Domain.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\bin\Debug\net6.0\MotorcycleWebShop.Domain.pdb
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.csproj.AssemblyReference.cache
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.AssemblyInfoInputs.cache
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.AssemblyInfo.cs
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.csproj.CoreCompileInputs.cache
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\refint\MotorcycleWebShop.Domain.dll
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\MotorcycleWebShop.Domain.pdb
+E:\Workspace\CS2022\JinkeyProjects\CleanArchitectureWebShop\MotorcycleWebShop\MotorcycleWebShop.Domain\obj\Debug\net6.0\ref\MotorcycleWebShop.Domain.dll
